@@ -71,13 +71,11 @@ I love connecting with developers, designers, and tech enthusiasts who enjoy bui
 
 <br/>
 
-[![Explore My Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://dilseerat.dev)
-
 <div align="center">
+  
 **"The best way to learn is by building."**  
+
 </div>
 
----
-
-## Fuel My Code ☕!
+### Fuel My Code ☕!
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/dilseerat) 
