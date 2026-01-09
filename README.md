@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Designing+intuitive+user+experiences;Building+scalable+web+applications;Frontend+precision+with+Full+Stack+thinking;Turning+ideas+into+production-ready+products&center=true&width=600&height=45">
 </p>
