@@ -71,6 +71,10 @@ I love connecting with developers, designers, and tech enthusiasts who enjoy bui
 
 <br/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilseerat00&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
 <div align="center">
   
 **"The best way to learn is by building."**  
